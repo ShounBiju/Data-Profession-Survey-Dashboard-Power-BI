@@ -7,6 +7,14 @@
 
 ---
 
+## ⚙️ Tools
+
+* **Power BI Desktop**  
+* **Power Query** (for transformation)  
+* **DAX** (for calculated insights)
+
+---
+
 ### 📊 Key Metrics
 
 * **Respondents:** 630+  
@@ -69,10 +77,4 @@ Built an **Power BI Dashboard** summarizing key survey insights.
 
 ---
 
-## ⚙️ Tools
 
-* **Power BI Desktop**  
-* **Power Query** (for transformation)  
-* **DAX** (for calculated insights)
-
----
